@@ -1,0 +1,10 @@
+db.sqlite3
+.DS_Store
+bikerental/__pycache__/
+wheelio/__pycache__/
+venv
+wheelio/migrations
+pagekite.py 
+media
+env
+__pycache__
