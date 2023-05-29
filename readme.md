@@ -18,13 +18,13 @@ A webapp made on Django that helps you keep track of your to-dos, and help you m
 1. Clone repository
 
 ```bash
-git clone https://github.com/mayankdhnkr/mayank-portfolio.git
+git clone https://github.com/mayankdhnkr/toodoowoo.git
 ```
 
 2. Navigate to project directory
 
 ```bash
-cd homepage
+cd todo
 ```
 
 3. Create a virtual environment:
