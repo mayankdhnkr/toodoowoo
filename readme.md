@@ -1,6 +1,7 @@
 
 # TooDooWoo
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+<br />
 A webapp made on Django that helps you keep track of your to-dos, and help you manage your activities and time. It has basic CRUD operations and uses a user based authentication to keep the to-dos seperated for different users
 
 
